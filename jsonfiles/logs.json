@@ -1,0 +1,35 @@
+[
+  {
+    "_id": 1,
+    "userId": 1,
+    "action": "place_order",
+    "productId": 1,
+    "quantity": 1,
+    "date": "2024-01-15T10:30:00Z",
+    "status": "success"
+  },
+  {
+    "_id": 2,
+    "userId": 2,
+    "action": "place_order",
+    "productId": 3,
+    "quantity": 1,
+    "date": "2024-01-20T14:45:00Z",
+    "status": "success"
+  },
+  {
+    "_id": 3,
+    "userId": 3,
+    "action": "login",
+    "date": "2024-02-05T09:00:00Z",
+    "status": "success"
+  },
+  {
+    "_id": 4,
+    "userId": 1,
+    "action": "add_to_cart",
+    "productId": 2,
+    "date": "2024-02-18T16:00:00Z",
+    "status": "success"
+  }
+]

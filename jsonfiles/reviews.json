@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1,
+    "userId": 1,
+    "productId": 1,
+    "rating": 5,
+    "comment": "Excellent laptop, very fast.",
+    "date": "2024-01-20"
+  },
+  {
+    "_id": 2,
+    "userId": 2,
+    "productId": 3,
+    "rating": 4,
+    "comment": "Good quality desk.",
+    "date": "2024-01-25"
+  },
+  {
+    "_id": 3,
+    "userId": 4,
+    "productId": 2,
+    "rating": 3,
+    "comment": "Average mouse.",
+    "date": "2024-02-01"
+  },
+  {
+    "_id": 4,
+    "userId": 5,
+    "productId": 1,
+    "rating": 5,
+    "comment": "Best laptop I ever used.",
+    "date": "2024-03-01"
+  }
+]
